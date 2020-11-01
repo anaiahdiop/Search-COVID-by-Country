@@ -1,0 +1,8 @@
+.dropDown{
+    text-align: center;
+}
+
+label select {
+    height: 10%;
+    font-size: 15px;
+}

@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-flow: row wrap;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+body {
+    background-color: rgb(180, 180, 180);
+}
